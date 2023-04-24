@@ -15,7 +15,7 @@
     top:150px;
 }
 .animate{
-    animation :jump 500ms ;
+    animation :jump 800ms ;
 }
 @keyframes jump
 {
