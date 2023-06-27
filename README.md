@@ -1,1 +1,1 @@
-# santhoshkumar1155.github.io
+# javascript_game.github.io
